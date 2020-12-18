@@ -1,0 +1,1 @@
+# softaculous-Uninstall-Linux
