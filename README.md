@@ -10,7 +10,7 @@ Run this script if you want to uninstall softaculous if you install it under Cen
 
 
 ```
-wget -N https://github.com/shellaaaron/softaculous-Uninstall-Linux/blob/main/softaculous-Uninstall-cPanel.sh && chmod 755 softaculous-Uninstall-cPanel.sh && ./softaculous-Uninstall-cPanel.sh
+wget -N https://raw.githubusercontent.com/shellaaaron/softaculous-Uninstall-Linux/main/softaculous-Uninstall-cPanel.sh && chmod 755 softaculous-Uninstall-cPanel.sh && ./softaculous-Uninstall-cPanel.sh
 ```
 
 
