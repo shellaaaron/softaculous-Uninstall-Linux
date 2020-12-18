@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm -rf /etc/cron.d/softaculous
 rm -rf /etc/cron.d/softaculous2
 rm -rf /var/softaculous
