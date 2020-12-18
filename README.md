@@ -1,4 +1,4 @@
-# softaculous-Uninstall-
+# Softaculous Uninstall Linux
 
 Uninstall in cPanel Bash script
 
